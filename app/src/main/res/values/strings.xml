@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MapsActivityApiKey</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- SE AGREGA EL VALOR DE LA LLAVE DE LA API DE GOOGLE MAPS -->
+    <string name="MAPS_API_KEY">AIzaSyAE2FT2gMY7Z3xDKcnh1BVxaa2U_JDCePo</string>
+</resources>
